@@ -66,5 +66,4 @@ $$;
 SELECT * FROM points;
 SELECT * FROM models;
 
-
-
+SHOW server_encoding;
